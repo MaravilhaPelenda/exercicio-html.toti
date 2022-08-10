@@ -1,0 +1,124 @@
+.titulo{
+   font-family: "adobe-clean, sans-serif";
+   font-size: 68px;
+   font-weight: 400px;
+   letter-spacing: 0px;
+   opacity: 1px;
+   color: #FFB300;
+   text-align: left;
+   font-style: normal;
+}
+
+h3{
+    top: 617px;
+    width: 600px;
+    height: 28px; 
+    font-family: "adobe-clean, sans-serif";
+    font-size: 16px;
+    color: #000000;
+    font-weight: 400px;
+    line-height: 18px;
+    text-align: right;
+    letter-spacing: 0px;
+    opacity: 1px;
+}
+
+.texto{
+     font-family: "adobe-clean, sans-serif";
+     color:#000000;
+     font-weight: 400px;
+     line-height: 18px;
+     font-size: 18px;
+     letter-spacing: 0px;
+     text-align: left;
+     opacity: 1;
+}
+
+h6{
+    font-family: "adobe-clean, "Source Sans Pro", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif"; 
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1px;
+    text-align: left;
+}
+
+.ingrediente {
+           font-family: "Source Sans Pro";
+            color: #FFB300;
+            font-size: 14px;
+            line-height: 21px;
+            font-weight: 400px;
+            opacity: 1px;
+            letter-spacing: 0px;
+            text-align: left;
+}
+ul{
+    font-family: "adobe-clean, Source Sans Pro";
+    font-size: 14px;
+    font-weight: 400px;
+    font-style: normal;
+    color: black;
+    line-height: 21px;
+    opacity: 1px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+
+.preparo{
+    font-family: "adobe-clean, "Source Sans Pro", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, sans-serif";
+    color: #FFB300;
+    font-style: normal;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    opacity: 1px;
+    letter-spacing: 0px;
+    text-align: left;
+    }
+
+    ol{
+        font-family: "adobe-clean, "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif";
+        font-style:normal;
+        font-weight: 400px;
+        font-size: 14px;
+        line-height: 21px;
+        color:#000000;
+        opacity: 1px;
+        letter-spacing: 0px;
+        text-align: left;
+    }
+
+    .video{
+           font-family: "adobe-clean, "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif";
+           font-size: 14px;
+           font-weight: 400px;
+           color: #FFB300;
+           line-height: 21px;
+           font-style: normal;
+           opacity: 1px;
+           letter-spacing: 0px;
+           text-align: left;
+        }
+
+        iframe{
+            border-radius: 2px;
+        }
+
+.voltar{
+     font-family: "adobe-clean, "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif";
+     font-size: 14px;
+     font-weight: 400px;
+     font-style: normal;
+     text-decoration: underline;
+     color: #0C40B6;
+     opacity: 1px;
+     letter-spacing: 0px;
+     text-align: left;
+}
+
+hr{
+    color: #E2E2E2;
+}
